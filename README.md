@@ -1,2 +1,11 @@
 # CA1
-This html code is to make a page on which there is details of few gadgets.There are details of gadgets , there old rates , new rates , specifitions , links to buy them , there glimpes etc
+
+This project contains HTML code for interactive gadgets that can be integrated into your web pages.
+
+## Features
+- Responsive gadget layouts
+- Interactive elements using HTML 
+- Easy to customize and extend
+## Usage
+Open the `ca1.html` file in your browser to view the gadget demo.
+
